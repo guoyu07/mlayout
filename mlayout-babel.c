@@ -3,3 +3,5 @@
 
   This file is part of mlayout.
 */
+
+/* for language/script related issues */

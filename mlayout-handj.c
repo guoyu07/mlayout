@@ -4,4 +4,4 @@
   This file is part of mlayout.
 */
 
-/* for unicode math rendering */
+/* for hyphenation and justification (Knuth & Plass) */
